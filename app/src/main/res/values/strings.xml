@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CHIG</string>
+    <string name="codigo" >Codigo</string>
+    <string name="Texto">Texto</string>
+    <string name="Usuario">Usuario</string>
+    <string name="Avatar">Avatar</string>
+    <string name="Favorito">Favorito</string>
+</resources>
